@@ -1,0 +1,20 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# With_Configurations configuration
+CND_ARTIFACT_DIR_With_Configurations=dist/With_Configurations/production
+CND_ARTIFACT_NAME_With_Configurations=boot_pic16f15244.X.production.hex
+CND_ARTIFACT_PATH_With_Configurations=dist/With_Configurations/production/boot_pic16f15244.X.production.hex
+CND_PACKAGE_DIR_With_Configurations=${CND_DISTDIR}/With_Configurations/package
+CND_PACKAGE_NAME_With_Configurations=bootpic16f15244.x.tar
+CND_PACKAGE_PATH_With_Configurations=${CND_DISTDIR}/With_Configurations/package/bootpic16f15244.x.tar
+# No_Configurations configuration
+CND_ARTIFACT_DIR_No_Configurations=dist/No_Configurations/production
+CND_ARTIFACT_NAME_No_Configurations=boot_pic16f15244.X.production.hex
+CND_ARTIFACT_PATH_No_Configurations=dist/No_Configurations/production/boot_pic16f15244.X.production.hex
+CND_PACKAGE_DIR_No_Configurations=${CND_DISTDIR}/No_Configurations/package
+CND_PACKAGE_NAME_No_Configurations=bootpic16f15244.x.tar
+CND_PACKAGE_PATH_No_Configurations=${CND_DISTDIR}/No_Configurations/package/bootpic16f15244.x.tar
